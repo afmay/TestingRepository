@@ -1,0 +1,22 @@
+{
+  "name": "whatshouldilistento",
+  "version": "1.0.0",
+  "description": "Spotify app using their API to suggest users new music.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Spotify",
+    "Api"
+  ],
+  "author": "Austyn May",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
